@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,50:00BFFF,100:87CEEB&height=250&text=Mahmoud%20El-Soghayar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20%26%20Front-End%20Developer&descSize=25&descAlignY=55&descAlign=50"/>
+<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,50:00BFFF,100:87CEEB&height=250&text=Mahmoud%20El-Soghayar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20%26%20Front-End%20Developer&descSize=25&descAlignY=55&descAlign=50](https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,50:00BFFF,100:87CEEB&height=250&text=Mahmoud%20El-Soghayar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20%26%20Front-End%20Developer&descSize=25&descAlignY=55&descAlign=50
+)"/>
 
 <!-- Social Links -->
 <p>
