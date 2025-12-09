@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Banner with Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:667eea,50:764ba2,100:f093fb&text=Mahmoud%20El-Soghayar&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Flutter%20%26%20Front-End%20Developer%20%7C%20Crafting%20Digital%20Experiences&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://images.pexels.com/photos/9783353/pexels-photo-9783353.jpeg"/>
 
 </div>
 
