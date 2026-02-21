@@ -69,6 +69,13 @@ const mahmoud = {
 <br clear="right"/>
 
 ---
+### Education & Learning
+<div align ="center">
+<p>🎓 Currently: Electrical Engineering student at High Institute For Engineering and Technology, Sohag </p>
+<p>📘 Learning: Flutter, React,  Web Development, Arduino, Circuits, PCB Design </p>
+  
+</div>
+---
 
 <!-- Tech Stack Section -->
 <div align="center">
@@ -183,12 +190,7 @@ const mahmoud = {
 </div>
 
 
-<div align ="center">
-  
-<p>🎓 Currently: Electrical Engineering student at High Institute For Engineering and Technology, Sohag </p>
-<p>📘 Learning: Flutter, React,  Web Development, Arduino, Circuits, PCB Design </p>
-  
-</div>
+
 
 ---
 
