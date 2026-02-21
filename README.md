@@ -182,6 +182,14 @@ const mahmoud = {
 
 </div>
 
+
+<div align ="center">
+  
+<p>🎓 Currently: Electrical Engineering student at High Institute For Engineering and Technology, Sohag </p>
+<p>📘 Learning: Flutter, React,  Web Development, Arduino, Circuits, PCB Design </p>
+  
+</div>
+
 ---
 
 <!-- Footer -->
@@ -192,8 +200,5 @@ const mahmoud = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
 
 </div>
-
-🎓 Currently: Electrical Engineering student at High Institute For Engineering and Technology, Sohag
-📘 Learning: Flutter, React,  Web Development, Arduino, Circuits, PCB Design 
 
 <!-- Made with 💜 by Mahmoud El-Soghayar -->
