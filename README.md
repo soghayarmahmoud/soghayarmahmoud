@@ -70,12 +70,9 @@ const mahmoud = {
 
 ---
 <!-- Education Section -->
-<div align ="center">
 ## Education & Learning
-  
   <p>🎓 Currently: Electrical Engineering student at High Institute For Engineering and Technology, Sohag </p>
   <p>📘 Learning: Flutter, React,  Web Development, Arduino, Circuits, PCB Design </p>
-</div>
 
 <br clear="right"/>
 
