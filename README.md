@@ -193,4 +193,7 @@ const mahmoud = {
 
 </div>
 
+🎓 Currently: Electrical Engineering student at High Institute For Engineering and Technology, Sohag
+📘 Learning: Flutter, React,  Web Development, Arduino, Circuits, PCB Design 
+
 <!-- Made with 💜 by Mahmoud El-Soghayar -->
