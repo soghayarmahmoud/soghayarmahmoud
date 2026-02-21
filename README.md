@@ -69,13 +69,16 @@ const mahmoud = {
 <br clear="right"/>
 
 ---
-### Education & Learning
+<!-- Education Section -->
 <div align ="center">
-<p>🎓 Currently: Electrical Engineering student at High Institute For Engineering and Technology, Sohag </p>
-<p>📘 Learning: Flutter, React,  Web Development, Arduino, Circuits, PCB Design </p>
+## Education & Learning
   
+  <p>🎓 Currently: Electrical Engineering student at High Institute For Engineering and Technology, Sohag </p>
+  <p>📘 Learning: Flutter, React,  Web Development, Arduino, Circuits, PCB Design </p>
 </div>
----
+
+<br clear="right"/>
+
 
 <!-- Tech Stack Section -->
 <div align="center">
