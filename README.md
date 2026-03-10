@@ -89,7 +89,7 @@ const mahmoud = {
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,dart,js,c,csharp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,dart,js,c,cs&theme=dark" />
 </p>
 
 ### 🧰 Tools & Platforms
