@@ -1,9 +1,4 @@
-<div align="center">
 
-<!-- Hero Banner with Gradient -->
-<img width="100%" src="https://images.pexels.com/photos/9783353/pexels-photo-9783353.jpeg"/>
-
-</div>
 
 <!-- Animated Typing SVG -->
 <p align="center">
