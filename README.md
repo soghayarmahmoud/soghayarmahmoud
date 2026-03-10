@@ -94,7 +94,7 @@ const mahmoud = {
 
 ### 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,visualstudio,androidstudio,postman,powershell,ubuntu,npm,obsidian,notion,wordpress,linkedin,linux,windows,vercel,docker&theme=dark" />
 </p>
 
 </div>
