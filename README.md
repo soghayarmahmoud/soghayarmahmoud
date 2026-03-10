@@ -84,7 +84,11 @@ const mahmoud = {
 
 ### 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,scss,tailwind&theme=dark" />
+</p>
+###  Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,dart,js,c#&theme=dark" />
 </p>
 
 ### 🧰 Tools & Platforms
