@@ -10,7 +10,7 @@
   
 ### 🌐 Connect With Me
   
-<a href="https://www.linkedin.com/in/mahmoud-el-soghayar-1847a5234/">
+<a href="https://www.linkedin.com/in/elsoghayar/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
 </a>
 <a href="https://m-el-soghayar.vercel.app/">
