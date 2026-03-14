@@ -141,17 +141,6 @@ const mahmoud = {
 
 ---
 
-<!-- Achievements Section -->
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=soghayarmahmoud&theme=dark&row=1&column=7" width="100%" alt="Trophy" />
-
-</div>
-
----
-
 <!-- Animated Highlight Section -->
 <div align="center">
 
