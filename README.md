@@ -1,6 +1,6 @@
 <!-- Animated Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Welcome+to+my+Digital+Space+%F0%9F%91%8B;Turning+Ideas+into+Reality+%F0%9F%9A%80;Building+the+Future%2C+One+App+at+a+Time+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Welcome+to+my+Digital+Space+%F0%9F%91%8B;Turning+Ideas+into+Reality+%F0%9F%9A%80;Building+the+Future,+One+App+at+a+Time+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 <!-- Connect With Me Section with Icons -->
@@ -121,10 +121,10 @@ const mahmoud = {
 
 | 🎯 Quest | 📈 Progress | 🧩 Status |
 |:---|:---:|:---:|
-| 📱 Building Mobile-First Flutter Apps | ![85%](https://progress-bar.dev/85/?width=200&color=667eea) | 🚀 **In Progress** |
-| 🎨 Enhancing UI/UX Design Skills | ![70%](https://progress-bar.dev/70/?width=200&color=764ba2) | 💡 **Learning** |
-| ⚡ Exploring Performance Optimization | ![50%](https://progress-bar.dev/50/?width=200&color=f093fb) | 🔬 **Researching** |
-| 🌐 Mastering Next.js & React | ![65%](https://progress-bar.dev/65/?width=200&color=667eea) | 📖 **Studying** |
+| 📱 Building Mobile-First Flutter Apps | 85% ▓▓▓▓▓▓▓▓▓░░░ | 🚀 **In Progress** |
+| 🎨 Enhancing UI/UX Design Skills | 70% ▓▓▓▓▓▓▓░░░░ | 💡 **Learning** |
+| ⚡ Exploring Performance Optimization | 50% ▓▓▓▓▓░░░░░░ | 🔬 **Researching** |
+| 🌐 Mastering Next.js & React | 65% ▓▓▓▓▓▓░░░░░ | 📖 **Studying** |
 
 </div>
 
@@ -146,7 +146,20 @@ const mahmoud = {
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=soghayarmahmoud&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=soghayarmahmoud&theme=dark&row=1&column=7" width="100%" alt="Trophy" />
+
+</div>
+
+---
+
+<!-- Animated Highlight Section -->
+<div align="center">
+
+## ✨ Professional Animations & Live Metrics
+
+- 🔁 Animated status badges: [![Build](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge&logo=github)](https://github.com/soghayarmahmoud)
+- 📊 Real-time contributions overview with SVG dashboard: [![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=soghayarmahmoud&theme=react-dark&bg_color=0D1117)](https://github.com/soghayarmahmoud)
+- 🌟 Sponsors & open source impact: [![Sponsors](https://img.shields.io/badge/Sponsors-Open%20Now-blue?style=for-the-badge)](https://github.com/sponsors/soghayarmahmoud)
 
 </div>
 
@@ -169,9 +182,9 @@ const mahmoud = {
 ## 🐍 Watch My Contributions Get Eaten!
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soghayarmahmoud/soghayarmahmoud/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soghayarmahmoud/soghayarmahmoud/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/soghayarmahmoud/soghayarmahmoud/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=soghayarmahmoud&repo=soghayarmahmoud&theme=radical">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=soghayarmahmoud&repo=soghayarmahmoud&theme=default">
+  <img alt="github contribution pin" src="https://github-readme-stats.vercel.app/api/pin/?username=soghayarmahmoud&repo=soghayarmahmoud&theme=radical">
 </picture>
 
 </div>
@@ -184,6 +197,20 @@ const mahmoud = {
 ### 👁️ Profile Views
 
 <img src="https://komarev.com/ghpvc/?username=soghayarmahmoud&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+
+</div>
+
+---
+
+<!-- New Professional Section -->
+<div align="center">
+
+## 📌 Professional Focus & Goals
+
+- Deliver responsive cross-platform products with clean architecture and high accessibility standards.
+- Maintain stakeholder collaboration through transparent backlog and sprint reviews.
+- Implement CI/CD pipelines using GitHub Actions for quality builds and stable deployments.
+- Mentor peers in front-end best practices and reusable component design.
 
 </div>
 
