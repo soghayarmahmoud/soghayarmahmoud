@@ -1,5 +1,3 @@
-
-
 <!-- Animated Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Welcome+to+my+Digital+Space+%F0%9F%91%8B;Turning+Ideas+into+Reality+%F0%9F%9A%80;Building+the+Future%2C+One+App+at+a+Time+%F0%9F%92%BB" alt="Typing SVG" />
@@ -188,9 +186,6 @@ const mahmoud = {
 <img src="https://komarev.com/ghpvc/?username=soghayarmahmoud&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 
 </div>
-
-
-
 
 ---
 
