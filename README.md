@@ -1,6 +1,6 @@
 <!-- Animated Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Welcome+to+my+Digital+Space+%F0%9F%91%8B;Turning+Ideas+into+Reality+%F0%9F%9A%80;Building+the+Future,+One+App+at+a+Time+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Welcome+to+my+Digital+Space+%F0%9F%91%8B;Turning+Ideas+into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <!-- Connect With Me Section with Icons -->
@@ -64,7 +64,7 @@ const mahmoud = {
 ---
 <!-- Education Section -->
 ## Education & Learning
-  <p>🎓 Currently: Electrical Engineering student at High Institute For Engineering and Technology, Sohag </p>
+  <p> Currently: Electrical Engineering student at High Institute For Engineering and Technology, Sohag </p>
   <p> Learning: Flutter, React,  Web Development, Arduino, Circuits, PCB Design </p>
 
 <br clear="right"/>
@@ -117,9 +117,9 @@ const mahmoud = {
 <!-- Current Projects Section -->
 <div align="center">
 
-## 🚀 Current Development Journey
+##  Current Development Journey
 
-| 🎯 Quest | 📈 Progress | 🧩 Status |
+|  Quest |  Progress |  Status |
 |:---|:---:|:---:|
 |  Building Mobile-First Flutter Apps | 85% ▓▓▓▓▓▓▓▓▓░░░ |  **In Progress** |
 |  Enhancing UI/UX Design Skills | 70% ▓▓▓▓▓▓▓░░░░ |  **Learning** |
