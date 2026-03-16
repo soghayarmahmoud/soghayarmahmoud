@@ -6,7 +6,7 @@
 <!-- Connect With Me Section with Icons -->
 <div align="center">
   
-### 🌐 Connect With Me
+###  Connect With Me
   
 <a href="https://www.linkedin.com/in/elsoghayar/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
@@ -28,7 +28,7 @@
 <!-- About Me Section with Image -->
 <div align="center">
   
-## 💫 About Me
+##  About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -37,7 +37,7 @@
 ```typescript
 const mahmoud = {
     role: "Flutter & Front-End Web Developer",
-    location: "Sohag, Egypt 🇪🇬",
+    location: "Sohag, Egypt ",
     mission: "Turning creative ideas into user-friendly digital products",
     
     philosophy: {
@@ -47,10 +47,10 @@ const mahmoud = {
     },
     
     passions: [
-        "🎨 Clean UI/UX",
-        "⚡ High Performance",
-        "📚 Continuous Learning",
-        "🚀 Innovation"
+        " Clean UI/UX",
+        " High Performance",
+        " Continuous Learning",
+        " Innovation"
     ],
     
     currentFocus: "Building scalable mobile & web applications",
@@ -65,7 +65,7 @@ const mahmoud = {
 <!-- Education Section -->
 ## Education & Learning
   <p>🎓 Currently: Electrical Engineering student at High Institute For Engineering and Technology, Sohag </p>
-  <p>📘 Learning: Flutter, React,  Web Development, Arduino, Circuits, PCB Design </p>
+  <p> Learning: Flutter, React,  Web Development, Arduino, Circuits, PCB Design </p>
 
 <br clear="right"/>
 
@@ -73,14 +73,14 @@ const mahmoud = {
 <!-- Tech Stack Section -->
 <div align="center">
 
-## 🛠️ Tech Arsenal
+##  Tech Arsenal
 
-### 💙 Mobile Development
+###  Mobile Development
 <p>
   <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio&theme=dark" />
 </p>
 
-### 🌐 Web Development
+###  Web Development
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,scss,tailwind&theme=dark" />
 </p>
@@ -90,7 +90,7 @@ const mahmoud = {
   <img src="https://skillicons.dev/icons?i=cpp,java,python,dart,js,c,cs&theme=dark" />
 </p>
 
-### 🧰 Tools & Platforms
+###  Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,visualstudio,androidstudio,postman,powershell,ubuntu,npm,obsidian,notion,wordpress,linkedin,linux,windows,vercel,docker&theme=dark" />
 </p>
@@ -102,7 +102,7 @@ const mahmoud = {
 <!-- GitHub Stats Section -->
 <div align="center">
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=soghayarmahmoud&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff&border_radius=10" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=soghayarmahmoud&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakLabel=764ba2&border_radius=10" />
@@ -121,10 +121,10 @@ const mahmoud = {
 
 | 🎯 Quest | 📈 Progress | 🧩 Status |
 |:---|:---:|:---:|
-| 📱 Building Mobile-First Flutter Apps | 85% ▓▓▓▓▓▓▓▓▓░░░ | 🚀 **In Progress** |
-| 🎨 Enhancing UI/UX Design Skills | 70% ▓▓▓▓▓▓▓░░░░ | 💡 **Learning** |
-| ⚡ Exploring Performance Optimization | 50% ▓▓▓▓▓░░░░░░ | 🔬 **Researching** |
-| 🌐 Mastering Next.js & React | 65% ▓▓▓▓▓▓░░░░░ | 📖 **Studying** |
+|  Building Mobile-First Flutter Apps | 85% ▓▓▓▓▓▓▓▓▓░░░ |  **In Progress** |
+|  Enhancing UI/UX Design Skills | 70% ▓▓▓▓▓▓▓░░░░ |  **Learning** |
+|  Exploring Performance Optimization | 50% ▓▓▓▓▓░░░░░░ |  **Researching** |
+|  Mastering Next.js & React | 65% ▓▓▓▓▓▓░░░░░ |  **Studying** |
 
 </div>
 
@@ -133,7 +133,7 @@ const mahmoud = {
 <!-- Activity Graph -->
 <div align="center">
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soghayarmahmoud&theme=radical" />
 
@@ -144,11 +144,11 @@ const mahmoud = {
 <!-- Animated Highlight Section -->
 <div align="center">
 
-## ✨ Professional Animations & Live Metrics
+##  Professional Animations & Live Metrics
 
-- 🔁 Animated status badges: [![Build](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge&logo=github)](https://github.com/soghayarmahmoud)
-- 📊 Real-time contributions overview with SVG dashboard: [![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=soghayarmahmoud&theme=react-dark&bg_color=0D1117)](https://github.com/soghayarmahmoud)
-- 🌟 Sponsors & open source impact: [![Sponsors](https://img.shields.io/badge/Sponsors-Open%20Now-blue?style=for-the-badge)](https://github.com/sponsors/soghayarmahmoud)
+- Animated status badges: [![Build](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge&logo=github)](https://github.com/soghayarmahmoud)
+
+-  Sponsors & open source impact: [![Sponsors](https://img.shields.io/badge/Sponsors-Open%20Now-blue?style=for-the-badge)](https://github.com/sponsors/soghayarmahmoud)
 
 </div>
 
@@ -157,7 +157,7 @@ const mahmoud = {
 <!-- Quote Section -->
 <div align="center">
 
-### 💭 Dev Quote of the Day
+###  Dev Quote of the Day
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
 
@@ -168,7 +168,7 @@ const mahmoud = {
 <!-- Snake Animation -->
 <div align="center">
 
-## 🐍 Watch My Contributions Get Eaten!
+##  Watch My Contributions Get Eaten!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=soghayarmahmoud&repo=soghayarmahmoud&theme=radical">
@@ -183,7 +183,7 @@ const mahmoud = {
 <!-- Profile Views Counter -->
 <div align="center">
 
-### 👁️ Profile Views
+### Profile Views
 
 <img src="https://komarev.com/ghpvc/?username=soghayarmahmoud&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 
