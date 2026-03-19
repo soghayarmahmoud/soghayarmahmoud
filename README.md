@@ -208,7 +208,7 @@ const mahmoud = {
 <!-- Footer -->
 <div align="center">
 
-### ✨ *"The best way to predict the future is to create it."* ✨
+### *"The best way to predict the future is to create it."* 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
 
