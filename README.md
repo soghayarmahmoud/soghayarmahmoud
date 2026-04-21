@@ -6,7 +6,7 @@
     <a href="https://www.linkedin.com/in/elsoghayar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://m-el-soghayar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
     <a href="https://github.com/soghayarmahmoud"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="mailto:alsighiar@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="mailto:mahmoudsruby@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 </div>
 
@@ -37,17 +37,19 @@ Currently expanding my expertise in **Flutter**, **React/Next.js**, and **embedd
 
 </div>
 
+#### 🔥 Contribution Streak
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soghayarmahmoud&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=F78166&fire=F78166&currStreakLabel=C9D1D9" width="100%" />
+</div>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=soghayarmahmoud&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=F78166&point=FFFFFF" width="100%" />
 </div>
 
 #### 🏆 Ranking Indicators
-- **Global Percentile**: The rank icon in the stats card shows your position among all GitHub users.  
-- **Egypt‑Specific Ranking**: You can view country‑based rankings on [Commits.top Egypt](https://commits.top/egypt.html) (updates daily).  
-- **Profile Trophy Case** (achievements based on activity):
-
-[![GitHub User Rank](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-rank-api.vercel.app%2Fapi%2Fuser%3Fusername%3Dsoghayarmahmoud&query=%24.rank&prefix=Global%20Rank%20%23&style=flat-square&label=GitHub&color=blue)](https://github.com/soghayarmahmoud)
-
+- **Global Percentile** – The `rank_icon=percentile` badge in the stats card shows your position relative to all GitHub users.  
+- **Egypt‑Specific Ranking** – View daily updated country stats on [Commits.top Egypt](https://commits.top/egypt.html).  
+- **Activity Consistency** – The contribution graph and streak stats demonstrate sustained open‑source engagement.
 
 ---
 
@@ -64,7 +66,7 @@ Currently expanding my expertise in **Flutter**, **React/Next.js**, and **embedd
 
 ### 📫 Professional Inquiries
 I welcome collaboration and contract opportunities. Reach me via:  
-- **Email**: [alsighiar@email.com](mailto:alsighiar@email.com)  
+- **Email**: [mahmoudsruby@gmail.com](mailto:mahmoudsruby@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/elsoghayar](https://www.linkedin.com/in/elsoghayar/)
 
 ---
