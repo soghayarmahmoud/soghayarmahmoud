@@ -45,9 +45,9 @@ Currently expanding my expertise in **Flutter**, **React/Next.js**, and **embedd
 - **Global Percentile**: The rank icon in the stats card shows your position among all GitHub users.  
 - **Egypt‑Specific Ranking**: You can view country‑based rankings on [Commits.top Egypt](https://commits.top/egypt.html) (updates daily).  
 - **Profile Trophy Case** (achievements based on activity):
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=soghayarmahmoud&theme=onestar&no-frame=true&column=7&margin-w=15" />
-</div>
+
+[![GitHub User Rank](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-rank-api.vercel.app%2Fapi%2Fuser%3Fusername%3Dsoghayarmahmoud&query=%24.rank&prefix=Global%20Rank%20%23&style=flat-square&label=GitHub&color=blue)](https://github.com/soghayarmahmoud)
+
 
 ---
 
