@@ -15,7 +15,7 @@
 ###  About Me
 Electrical Engineering student at the High Institute for Engineering and Technology, Sohag, Egypt.  
 I build **mobile and web applications** with a focus on clean architecture, high performance, and intuitive user experiences.  
-Currently expanding my expertise in **Flutter**, **React/Next.js**, and **embedded systems**.
+Currently expanding my expertise in **Flutter**, **React/Next.js**,**BCP Design**,**Digital System Design**,**Arduino & Microcontrollers**,**IC Design**,  and **embedded systems**.
 
 ---
 
