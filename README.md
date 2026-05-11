@@ -33,7 +33,7 @@ Currently expanding my expertise in **Flutter**, **React/Next.js**,**BCP Design*
 
 | **Overall Stats** | **Most Used Languages** |
 |:-----------------:|:-----------------------:|
-| <img src="https://github-readme-stats.vercel.app/api?username=soghayarmahmoud&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F78166&text_color=C9D1D9&rank_icon=percentile&include_all_commits=true" width="100%" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soghayarmahmoud&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" width="100%" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=soghayarmahmoud&show_icons=true&show_rank=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F78166&text_color=C9D1D9" width="100%" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soghayarmahmoud&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" width="100%" /> |
 
 </div>
 
@@ -47,7 +47,7 @@ Currently expanding my expertise in **Flutter**, **React/Next.js**,**BCP Design*
 </div>
 
 ####  Ranking Indicators
-- **Global Percentile** – The `rank_icon=percentile` badge in the stats card shows your position relative to all GitHub users.  
+- **Estimated GitHub Rank** – Based on `github-readme-stats`, shows your position among active users of the tool (displayed as `A+`, `S`, etc.).  
 - **Egypt‑Specific Ranking** – View daily updated country stats on [Commits.top Egypt](https://commits.top/egypt.html).  
 - **Activity Consistency** – The contribution graph and streak stats demonstrate sustained open‑source engagement.
 
