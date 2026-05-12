@@ -12,14 +12,14 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 Electrical Engineering student at the High Institute for Engineering and Technology, Sohag, Egypt.  
 I build **mobile and web applications** with a focus on clean architecture, high performance, and intuitive user experiences.  
 Currently expanding my expertise in **Flutter**, **React/Next.js**, **PCB Design**, **Digital System Design**, **Arduino & Microcontrollers**, **IC Design**, and **embedded systems**.
 
 ---
 
-### 🧰 Technical Toolbox
+###  Technical Toolbox
 
 | **Mobile** | **Web** | **Languages** | **Tools & Platforms** |
 |:----------:|:-------:|:-------------:|:---------------------:|
@@ -27,7 +27,7 @@ Currently expanding my expertise in **Flutter**, **React/Next.js**, **PCB Design
 
 ---
 
-### 🏆 GitHub Analytics & Global Ranking
+###  GitHub Analytics & Global Ranking
 
 <!-- Global Ranking Trophies -->
 <div align="center">
@@ -44,7 +44,7 @@ Currently expanding my expertise in **Flutter**, **React/Next.js**, **PCB Design
 </div>
 <br>
 
-#### 🔥 Contribution Streak
+####  Contribution Streak
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soghayarmahmoud&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=F78166&fire=F78166&currStreakLabel=C9D1D9" alt="GitHub Streak" />
 </div>
@@ -54,7 +54,7 @@ Currently expanding my expertise in **Flutter**, **React/Next.js**, **PCB Design
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=soghayarmahmoud&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=F78166&point=FFFFFF" alt="Activity Graph" />
 </div>
 
-#### 📊 Ranking Indicators
+####  Ranking Indicators
 - **Global Trophies:** Displays your top percentile ranking worldwide based on commits, stars, and pull requests.
 - **Estimated GitHub Rank:** Based on `github-readme-stats` metrics (A+, S, etc.).
 - **Egypt‑Specific Ranking:** Track daily updated country stats on [Commits.top Egypt](https://commits.top/egypt.html).
@@ -66,14 +66,14 @@ Currently expanding my expertise in **Flutter**, **React/Next.js**, **PCB Design
 
 | Initiative | Status |
 |:-----------|:------:|
-| Delivering production‑ready Flutter apps with clean architecture | **Active** 🟢 |
-| Deepening expertise in Next.js & React performance patterns | **Learning** 📚 |
-| Exploring embedded systems (Arduino, PCB design) | **Developing** ⚙️ |
-| Contributing to open‑source Flutter / front‑end libraries | **Starting** 🚀 |
+| Delivering production‑ready Flutter apps with clean architecture | **Active**  |
+| Deepening expertise in Next.js & React performance patterns | **Learning**  |
+| Exploring embedded systems (Arduino, PCB design) | **Developing**  |
+| Contributing to open‑source Flutter / front‑end libraries | **Starting**  |
 
 ---
 
-### 📫 Professional Inquiries
+###  Professional Inquiries
 I welcome collaboration and contract opportunities. Reach me via:  
 - **Email**: [mahmoudsruby@gmail.com](mailto:mahmoudsruby@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/elsoghayar](https://www.linkedin.com/in/elsoghayar/)
