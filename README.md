@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Electrical+Engineering+Student;Building+Mobile+%26+Web+Apps;Exploring+Embedded+Systems;Clean+Architecture+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Electrical+Engineering+Student;Building+Mobile+%26+Web+Apps;Light+Current+%26+BMS+Enthusiast;Clean+Architecture+Advocate" alt="Typing SVG" />
   </a>
 </div>
 
@@ -25,7 +25,7 @@
 ### 👨‍💻 About Me
 Electrical Engineering student at the High Institute for Engineering and Technology, Sohag, Egypt.  
 I build **mobile and web applications** with a focus on clean architecture, high performance, and intuitive user experiences.  
-Currently expanding my expertise in **Flutter**, **React/Next.js**, **PCB Design**, **Digital System Design**, **Arduino & Microcontrollers**, **IC Design**, and **embedded systems**.
+Currently expanding my expertise bridging software and hardware, exploring **Light Current Systems**, **BMS (Building Management Systems)**, **PCB Design**, **Digital System Design**, **Arduino**, and **embedded systems**.
 
 ---
 
@@ -33,16 +33,24 @@ Currently expanding my expertise in **Flutter**, **React/Next.js**, **PCB Design
 
 <div align="center">
 
+**Electrical & Hardware Design**<br>
+![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autocad&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altium&logoColor=white)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-0075FF?style=for-the-badge)
+![ModelSim](https://img.shields.io/badge/ModelSim-005128?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
 **Mobile Development**<br>
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**Web Development**<br>
+**Web Development & Databases**<br>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Languages**<br>
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -55,6 +63,7 @@ Currently expanding my expertise in **Flutter**, **React/Next.js**, **PCB Design
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -106,7 +115,7 @@ Currently expanding my expertise in **Flutter**, **React/Next.js**, **PCB Design
 | Initiative | Status |
 |:-----------|:------:|
 | Delivering production‑ready Flutter apps with clean architecture | 🟢 **Active** |
-| Deepening expertise in Next.js & React performance patterns | 🔵 **Learning** |
+| Integrating software with Light Current systems & BMS | 🔵 **Learning** |
 | Exploring embedded systems (Arduino, PCB design) | 🟡 **Developing** |
 | Contributing to open‑source Flutter / front‑end libraries | 🚀 **Starting** |
 
